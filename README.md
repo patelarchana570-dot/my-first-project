@@ -1,4 +1,3 @@
-# My-first-project
 # Amazon Clone
 This is my Amazon Clone project built using HTML & CSS.
 ## Features
